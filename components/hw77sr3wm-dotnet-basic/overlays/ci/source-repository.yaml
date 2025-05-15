@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hw77sr3wm-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hw77sr3wm-dotnet-basic
